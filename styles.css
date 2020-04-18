@@ -1,0 +1,40 @@
+.App {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+body {
+  background-color: ;
+}
+
+#searchBtn {
+  background-color: lightseagreen;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#courseSearch {
+  position: relative;
+  left: -15%;
+}
+
+#courseBox {
+  border: 5px solid lightseagreen;
+  padding: 10px;
+}
+
+.c:hover {
+  background-color: linen;
+  cursor: pointer;
+}
+
+.button:hover {
+  cursor:pointer
+}
